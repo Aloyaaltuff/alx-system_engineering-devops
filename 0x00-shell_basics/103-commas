@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --a ../. [:digit:]?*/
+ls -a m v
