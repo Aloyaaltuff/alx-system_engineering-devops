@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ln tail etc/passwd
+tail 10 etc/passwd
