@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo nano /etc/hosts | cat /etc/passwd
+sudo cat /etc/hosts /etc/passwd
