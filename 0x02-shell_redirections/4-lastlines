@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ls -n tail etc/passwd
+ls -ln tail etc/passwd
