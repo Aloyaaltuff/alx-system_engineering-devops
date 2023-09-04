@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo vim /etc/hosts,/etc/passwd
+sudo nano /etc/hosts |cat /etc/passwd
