@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "drwxr-xr-x 2 root root   242 Sep  5 08:06 .\ndrwxr-xr-x 6 root root   121 Sep  4 08:57 ..\n-rwxr--r-- 1 root root    32 Sep  4 09:56 0-hello_world\n-rw-r----- 1 root root 12288 Sep  4 10:28 .0-hello_world.swp\n-rwxr--r-- 1 root root    28 Sep  4 11:11 1-confused_smiley\n-rwxr--r-- 1 root root    28 Sep  4 11:28 2-hellofile\n-rwxr--r-- 1 root root    50 Sep  4 11:39 3-towfiles\n-rwxr--r-- 1 root root    54 Sep  4 12:25 3-twofiles\n-rwxr--r-- 1 root root    29 Sep  4 13:06 4-lastlines\n-rwxr--r-- 1 root root    29 Sep  4 13:08 5-firstlines\n-rwxr-xr-x 1 root root    40 Sep  5 08:06 6-third_line\n
--rwxr--r-- 1 root root    84 Sep  4 14:18 7-file\n-rwxr--r-- 1 root root   129 Sep  5 08:04 8-cwd_state\n-rwxr--r-- 1 root root    18 Sep  4 09:18 README.md" > ls_cwd_content
+ls -la > ls_cwd_content
