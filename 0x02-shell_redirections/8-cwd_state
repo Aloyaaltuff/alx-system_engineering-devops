@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Shows a detailed list of all files up to files that start with a period that is often hidden" > ls_cwd_content
